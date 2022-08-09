@@ -1,5 +1,5 @@
-- RUNNING THE APPLICATION
- -- update the ConnectionStrings Database Section in the AppSettings.Development.json to point to an active mySQL instance
- -- Build the project or run `dotnet restore` to install required packages
- -- Run update-database Ef Command to scaffold the database and tables
- -- Run Application 
+- `RUNNING THE APPLICATION`
+- update the ConnectionStrings Database Section in the `AppSettings.Development.json` to point to an active mySQL instance
+- Build the project or run `dotnet restore` to install required packages
+- Run update-database Ef Command to scaffold the database and tables
+- Run Application 
